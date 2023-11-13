@@ -680,3 +680,38 @@ section{
   }
 }
 
+@media (max-width: 768px) {
+  /* Body */
+  body {
+    font-size: 14px;
+  }
+
+  /* Headings */
+  h1 {
+    font-size: 20px;
+  }
+
+  h2 {
+    font-size: 18px;
+  }
+
+  h3 {
+    font-size: 16px;
+  }
+
+  /* Paragraphs */
+  p {
+    margin-bottom: 5px;
+  }
+
+  /* Images */
+  img {
+    max-width: 80%;
+  }
+
+  /* Buttons */
+  button {
+    font-size: 16px;
+    padding: 5px 10px;
+  }
+}
